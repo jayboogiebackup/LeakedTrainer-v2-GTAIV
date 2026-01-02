@@ -11,9 +11,9 @@ Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in
 - Unlimited ammo
 <hr></hr>
  Requirements
-- Windows 7/8/10/11 (x86 or x64 depending on build)
-- GTA IV (Steam/cracked) installed
-- Run trainer with same privileges as the game (match bitness)
+~ Windows 7/8/10/11 (x86 or x64 depending on build)
+~ GTA IV (Steam/cracked) installed
+~ Run trainer with same privileges as the game (match bitness)
 <hr></hr>
  Installation
 - Place the trainer executable next to the GTA IV executable or in a safe folder.
@@ -22,17 +22,17 @@ Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in
 - Attach trainer to the game process using the trainer's UI.
 <hr></hr>
  Troubleshooting
-- Trainer won't attach: ensure trainer and game have matching bitness and run with appropriate privileges.
-- Features not working after updates: game updates may change memory layout. Wait for trainer update.
-- Crashes: disable conflicting overlays (Discord, Steam overlay) and run as Administrator.
+~ Trainer won't attach: ensure trainer and game have matching bitness and run with appropriate privileges.
+~ Features not working after updates: game updates may change memory layout. Wait for trainer update.
+~ Crashes: disable conflicting overlays (Discord, Steam overlay) and run as Administrator.
 <hr></hr>
  Legal / Safety
-- Intended for single-player use only. Do not use in online/multiplayer to avoid bans and to respect other players.
-- No warranties; use at your own risk.
+~ Intended for single-player use only. Do not use in online/multiplayer to avoid bans and to respect other players.
+~ No warranties; use at your own risk.
 
  Credits
-- Author: jaygotleaked
-- Built with community-tested memory-handling techniques and open tools.
+~ Author: jaygotleaked
+~ Built with community-tested memory-handling techniques and open tools.
 
  License
 Specify your preferred license (MIT recommended) in a separate LICENSE file.
