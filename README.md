@@ -2,7 +2,9 @@
 
 Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in-game toggles for common trainer features. Use at your own risk — for single-player only. Do not use in multiplayer environments.
 
-<img src=https://pixeldrain.com/api/file/YutEnPq1></img>
+<img src=https://pixeldrain.com/api/file/YutEnPq1>
+ <a href="https://github.com/jayboogiebackup/LeakedTrainer-v2-GTAIV/releases/tag/latest" />
+</img>
 
  <h2>Features
 - Unlimited health (player)
