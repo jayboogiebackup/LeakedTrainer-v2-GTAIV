@@ -20,6 +20,7 @@ Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in
 - Launch GTA IV.
 - Launch the trainer (preferably as Administrator if required).
 - Attach trainer to the game process using the trainer's UI.
+-
 <hr></hr>
  Troubleshooting
 ~ Trainer won't attach: ensure trainer and game have matching bitness and run with appropriate privileges.
