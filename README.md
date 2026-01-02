@@ -6,7 +6,7 @@ Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in
  <img src=https://pixeldrain.com/api/file/YutEnPq1 />
 </a>
 
- <h3>Features
+ Features
 - Unlimited health (player)
 - Unlimited ammo
 <hr></hr>
