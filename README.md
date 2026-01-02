@@ -1,10 +1,9 @@
-<h1>GTA IV Trainer
+<h1>GTA IV Trainer</h1>
 
 Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in-game toggles and hotkeys for common trainer features. Use at your own risk — for single-player only. Do not use in multiplayer environments.
 
 <img src=https://pixeldrain.com/api/file/YutEnPq1></img>
 
-</h1>
  <h2>Features
 - Unlimited health (player)
 - Unlimited ammo
