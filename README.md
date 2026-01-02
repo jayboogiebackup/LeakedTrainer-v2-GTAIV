@@ -9,7 +9,7 @@ Simple, lightweight trainer for Grand Theft Auto IV (single-player). Provides in
  Features
 - Unlimited health (player)
 - Unlimited ammo
- Installation
+Installation
 - Place the trainer executable next to the GTA IV executable or in a safe folder.
 - Launch GTA IV.
 - Launch the trainer (preferably as Administrator if required).
